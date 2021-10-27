@@ -23,9 +23,8 @@
   <img align="center" alt="Antonia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Antonia-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Antonia-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  !(https://github.com/AntoniaMi/AntoniaMi/blob/output/github-contribution-grid-snake.svg)
 </div>
   
 ##
-<div>
-  (https://github.com/AntoniaMi/AntoniaMi/blob/output/github-contribution-grid-snake.svg)
-</div>
