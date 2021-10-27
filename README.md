@@ -27,7 +27,7 @@
   
 ##
   
-![Snake animation](https://github.com/antoniami/antoniami/blob/output/github-contribution-grid-snake.svg)
+!(https://github.com/antoniami/AntoniaMi/blob/output/github-contribution-grid-snake.svg)
 
   
 
