@@ -15,9 +15,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/AntoniaMi">
-    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=AntoniaMi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntoniaMi&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/antoniamichelly">
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=antoniamichelly&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniamichelly&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div align="center"><br>
   <img align="center" alt="Antonia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -27,4 +27,4 @@
   
 ##
 
-![Snake animation](https://github.com/AntoniaMi/AntoniaMi/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/antoniamichelly/antoniamichelly/blob/output/github-contribution-grid-snake.svg)
